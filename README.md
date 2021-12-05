@@ -26,6 +26,8 @@ We ask about users' names and phone numbers, the info is noted down for our staf
 - AI
 - Machine Learning
 - Google Cloud
+-  Visual Studio Code (VS Code, Code)
+- GitHub
 
 ## SAP build
 We use SAP to build our chat bot which is intelligent enough to get real time crypto price and is able to answer and educate users about financial questions such as checking account or credit card. 
